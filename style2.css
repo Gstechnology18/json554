@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+div{
+    text-align: center;
+    color:rgb(0, 144, 184)
+}
+button{
+    position:static;
+    width: 160px;
+    height: 40px;
+    color: #12e1b9;
+    background-color: rgb(52, 52, 123);
+    border-color: #12e1b9;
+    border: solid 1px;
+    border-radius: 2px;
+}
+button:hover{
+background-color: #032e39;
+}
+body{
+    background: linear-gradient(to bottom right, #033343, #210244, #0ba2b0);
+   background-repeat: no-repeat;
+   background-size: 100% 1000%;
+    
+}

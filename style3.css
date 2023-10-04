@@ -1,0 +1,41 @@
+div{
+    width: 500px;
+    border-style: groove;
+    border-width: 1px;
+    margin: 0 auto;
+    border-radius: 8px;
+    background-color: black;
+    border-color: blueviolet;
+    height: 400px;;
+}
+input{
+    width: 400px;
+    height: 30px;
+    text-align: center;
+    border-radius: 6px;
+}
+button{
+    width: 75px;
+    height: 50px;
+    border-radius: 6px;
+}
+button:hover{
+    background-color: blueviolet;
+    color: aqua;
+    transition: background-color 0.3s
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    background-image: url(Bem-Vindo\ a\ Página\ \(2\).png);
+    height: 100px;
+    background-size: cover;
+}
+h1{
+    font-size: 55px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: blueviolet;
+    border-color: azure;
+}
